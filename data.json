@@ -1,0 +1,375 @@
+{
+  "status_code": "1",
+  "header": [
+    {
+      "header_name": "Featured Videos",
+      "app_info": [
+        {
+          "id": "0-0-51732",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-51732/list/270x152/1170x658withlog_1519423752.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "title": "Natasaarvabhowma",
+          "duration": "9010",
+          "description": "Natasaarvabhowma is a 2019 Kannada horror drama movie starring Puneeth Rajkumar, Rachita Ram and Anupama Parameswaran. The story revolves around Gagan, who rents a haunted house along with his friend Keshav. Gagan wears a sacred thread on his right wrist, and believes that will keep him safe. Situations however change after Gagan starts to wear an old spectacles that he finds in the haunted house, and loses his sacred thread, as he begins to experience a strange behaviour within himself.",
+          "rating": "4"
+        },
+        {
+          "id": "0-0-103999",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-103999/list/270x152/kurukshetra_1170_808811915.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+          "title": "Kurukshetra",
+          "duration": "10838",
+          "description": "Kurukshetra is a 2019 Kannada mythological war and drama movie starring Darshan Thoogudeepa, Nikhil Kumaraswamy, Ambareesh, and Ravichandran. The story is based on the epic tale of Mahabharata and focusses on Duryodhana's life as a brave warrior, who succumbs to injustice within the family and meets an unexpected tragic end. Witness the memorable incidents of the Mahabharata including the fight between Duryodhana and Bheema, the arrival of Shakuni, Draupadi's Vastraharan, and the war of Kurukshetra.",
+          "rating": "4"
+        },
+        {
+          "id": "0-101-externalli_493646417",
+          "imageurl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "title": "Suvarna News LIVE",
+          "duration": "9010",
+          "description": "Watch Suvarna News, a 24/7 Kannada news channel offering LIVE coverage of all the latest news stories from Karnataka across politics, entertainment, sports, technology & more.",
+          "rating": "0"
+        },
+        {
+          "id": "0-0-81435",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-81435/list/270x152/seetharamakalyan_338675758.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "title": "Seetharama Kalyana",
+          "duration": "8820",
+          "description": "Seetharama Kalyana is a 2019 Kannada romantic action movie starring Nikhil Kumaraswamy and Rachita Ram. The story revolves around Arya, a rich guy, who falls in love with a small-town girl, Geetha. Just when everything feels settled, Arya gets to know about the unknown problems in his family, that creates an obstacle to his love. Will Arya be able to win Geetha's love? Or, does fate have other plans?\r\n",
+          "rating": "4"
+        },
+        {
+          "id": "0-0-93267",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-93267/list/270x152/_1170x658_1440564359.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+          "title": "Londonalli Lambodara",
+          "duration": "7982",
+          "description": "Londonalli Lambodara is a 2019 Kannada romantic comedy movie starring Santhu, Sampath Raj and Shruti Prakash. The story revolves around Lambodara, who lands up in London after his guruji's recommendation, with an intention to make quick money. The situation however turns horribly wrong when he encounters a series of unexpected events, putting him in trouble with the local police. Will Lambodara be able to come out of the mess and return to India?",
+          "rating": "3"
+        },
+        {
+          "id": "0-0-87629",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-87629/list/270x152/bhinna_1170x658_1699242708.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+          "title": "Bhinna",
+          "duration": "5701",
+          "description": "Bhinna is a 2019 ZEE5 Kannada Original movie starring Shashank Purushotham, Siddharth Maadhyamika, Paayal Radhakrishna, and Sowmya Jaganmurthy. The story revolves around Kaveri, an aspiring actress, who begins to lose sight of reality when the events of the script of her upcoming movie begin to unfold in her actual life. Is Kaveri in an illusion? Where does this all end?",
+          "rating": "5"
+        },
+        {
+          "id": "0-0-45928",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-45928/list/270x152/chemistryofkariyappa_1170x.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+          "title": "Chemistry of Kariyappa",
+          "duration": "7536",
+          "description": "Chemistry of Kariyappa is a 2019 Kannada comedy movie starring Tabla Nani, Chandan Achar, Sanjana Anand and others. The story is based on a true incident that happened in the Mandya district, Karnataka. The movie revolves around Tabla Nani who leaves with his wife, son and daughter-in-law happily, but not before complications arise in his son's life. When the newly-wed son is suspected of being impotent by his wife, she files for a divorce. What will the son do to prove his wife otherwise, using his father's help in the court, forms the rest of the story.",
+          "rating": "4"
+        },
+        {
+          "id": "0-0-movie_2078675568",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-movie_2078675568/list/270x152/freedomweek_kann_731089980.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Mufti",
+          "duration": "8784",
+          "description": "Mufti is a 2017 Kannada action thriller starring Shivarajkumar (as Bhairathi), Srimurali (as Gana), Raksha (as Shanvi), Sadhu Kokila and others. The story revolves around Gana, an undercover cop, who takes up the mission to search and kill Bhairathi (the biggest don in Ronapura). During his encounter with Bhairathi, he realises that Bhairathi became a don for the sake of helping the villagers. Will this change his perception on Bhairathi? Or, does he continue with his mission of hunting him down?",
+          "rating": "5"
+        },
+        {
+          "id": "0-0-122736",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-122736/list/270x152/hotel_mumbai_en_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Hotel Mumbai",
+          "duration": "7238",
+          "description": "Hotel Mumbai is 2018 a Hindi thriller drama starring Dev Patel, Anupam Kher, Armie Hammer, Vipin Sharma, Nazanin Boniadi and Jason Isaacs. Based on the 2008 Mumbai terror attacks, the movie narrates the gripping story of how a brave chef and the kitchen staff at a popular hotel risked their lives to protect the guests.",
+          "rating": "4"
+        },
+        {
+          "id": "0-0-124153",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-124153/list/270x152/thank_you_for_yo_511905224.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Thank You For Your Service",
+          "duration": "6208",
+          "description": "Thank You for Your Service is a 2017 American biographical war drama film starring Miles Teller, Haley Bennett, Beulah Koale and Joe Cole. When Sergeant Adam Schumann returns home after a 15-month combat experience in Iraq and tries to adjust to the civilian lifestyle while still carrying harrowing memories from the war.",
+          "rating": "4"
+        },
+        {
+          "id": "0-0-101305",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-101305/list/270x152/atomicblonde_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Atomic Blonde",
+          "duration": "6564",
+          "description": "Atomic Blonde is a 2017 American action thriller movie starring Charlize Theron, James McAvoy, John Goodman and Til Schweiger. Set in 1989, Lorraine, an undercover MI6 agent, is sent to Berlin just before the collapse of the wall, to investigate the murder of a fellow agent and recover a missing list of double agents.",
+          "rating": "4"
+        },
+        {
+          "id": "0-0-124142",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-124142/list/270x152/survivor_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Survivor",
+          "duration": "5526",
+          "description": "Survivor is a 2015 British-American action spy thriller film starring Milla Jovovich, Pierce Brosnan and Angela Bassett. A foreign service officer teams up with her colleague in order to prove her innocence while also trying to simultaneously thwart a terrorist attack.",
+          "rating": "4"
+        },
+        {
+          "id": "0-0-2262",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-2262/list/270x152/drive_740x416.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Drive",
+          "duration": "6000",
+          "description": "Drive is a 2011 American crime thriller film directed by Nicolas Winding Refn with a screenplay by Hossein Amini. It is based on the 2005 novel by James Sallis.\nDrive stars Ryan Gosling as a Hollywood stunt driver who also moonlights as a getaway driver. He grows fond of his neighbour and her young son, but finds himself in trouble when her debt-laden husband is released from prison and asks him to be part of a million-dollar heist that goes horribly wrong.",
+          "rating": "3.7"
+        },
+        {
+          "id": "0-0-4007",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-4007/list/270x152/pele740x416_385983656.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Pelé",
+          "duration": "6035",
+          "description": "Pelé: Birth Of A Legend is a 2016 American biographical film written and directed by Jeff Zimbalist & Michael Zimbalist. It is based on the early life of Brazilian football legend, Pele.\nThe film chronicles the meteoric rise of Pele from Sao Paulo’s impoverished slums to spearheading Brazil to its first World Cup victory at age 17. The film focuses on the relationship shared between Pelé and his father.",
+          "rating": "4.5"
+        },
+        {
+          "id": "0-6-tvshow_1506658088",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-tvshow_1506658088/list/270x152/taboonew1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Taboo",
+          "duration": "8784",
+          "description": "Taboo is a British thriller television series starring Tom Hardy, Leo Bill, Jessie Buckley and Oona Chaplin in the lead. James Delaney returns to England for his father’s funeral, after spending 12 years in Africa. He must now work to rebuild his father’s empire to retrieve his family’s pride.",
+          "rating": "4"
+        },
+        {
+          "id": "0-6-tvshow_984782182",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-tvshow_984782182/list/270x152/karenjit_1170x6_1784121340.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Karenjit Kaur",
+          "duration": "8784",
+          "description": "Karenjit Kaur - The Untold Story of Sunny Leone is a ZEE5 Original starring Sunny Leone, Raj Arjun, Rysa Saujani, Karamvir Lamba, Bijay Jasjit Anand, Grusha Kapoor, Vansh Pradhan and Marc Buckner. The biopic narrates the sensational journey of India's most googled celebrity Sunny Leone from her girl-next-door days as Karenjit Kaur to the hot Sunny Leone whose videos, songs and photos drove an entire generation crazy. Directed by Aditya Datt, this sensational drama reveals Sunny's past, her family, her love story with boyfriend-turned-husband Daniel Weber and traces her transformation from an adult film star to a popular mainstream Bollywood actress.",
+          "rating": "5"
+        }
+      ]
+    },
+    {
+      "header_name": "Featured Movies",
+      "app_info": [
+        {
+          "id": "0-6-1286",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-1286/list/270x152/mittakannada1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "title": "Nashe",
+          "duration": "3000",
+          "description": "Nashe is a 2019 stoner comedy ZEE5 Kannada Original starring Lallu, Sathu, Shira Gaarg and Pradeep Pradz. The story revolves around four friends - Sathu, Lallu, Prabha's Aalu (Sathu's girlfriend) and Ishtiaq - who go party hopping in a bid to track down the person they have sold a bag of weed to while coming across unexpected situations and people in their quest. Whether the friends will be able to find the bag and come out of the mess forms the rest of the story.",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2445",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2445/list/270x152/fittrat_kannada_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+          "title": "Fittrat",
+          "duration": "3045",
+          "description": "Fittrat is a Kannada dubbed ZEE5 Original series starring Aditya Seal, Krystle D’souza, Anushka Ranjan, Aru K Verma, Divya Seth and Priyanka Bhatia. The story revolves around childhood friends, Tarini and Amrita, who have opposite personalities. While Amrita is a rich girl with a golden heart, Tarini is an ambitious gold-digger whose only aim in life is to marry a rich man. Their friendship sours when Amrita’s fiancé Veer gets attracted to Tarini.",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-1884",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-1884/list/270x152/kailaspuram_117_1309680214.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "title": "Kailasapura",
+          "duration": "4000",
+          "description": "Kailasapura is a 2019 ZEE5 Kannada Original suspense thriller series starring Mohit, Snehal, Gautam, Varma and Vamsi. The story revolves around the life of five teenagers who get addicted to Ganja and involve themselves in the peddling of marijuana for money. The situation, however, changes when one of them gets killed and the kids realise that they're in a trap. Will the teenagers be able to come out of this life-threatening situation?",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2021",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2021/list/270x152/postman_kannada_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "title": "Postman",
+          "duration": "4040",
+          "description": "Postman is a 2019 ZEE5 Original web series starring Munishkanth and Keerthi Pandian. The story revolves around Raja, a postman and possibly the biggest fan of Rajinikanth, who leads a happy life with his daughter. However, on a tragic day, with nine letters yet to be delivered, Raja meets with an accident and slips into coma. When he wakes up after 23 long years, he proceeds to continue his unfinished business-to deliver those letters! The series of events that take place when he tries to do this form the crux of the story.",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2493",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2493/list/270x152/the_verdict_kannada_1170x6.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+          "title": "The Verdict - State VS Nanavati",
+          "duration": "4090",
+          "description": "Indian naval commander K.M. Nanavati returns home from the line of duty, only to find that his wife Sylvia Nanavati is having an extra-marital affair with the businessman & socialite Prem Ahuja. Jealousy and anger lead to an unexpected encounter where Nanavati fires three shots from his service gun. Was this an Honor killing or murder? This sparks a nationwide debate. On one hand, the people, media, and government debate moralities of Sylvia & Prem to establish Nanavati as a national hero. On the other hand, Parsis and Sindhis stand against each other in a war to save their community’s pride or convict a murderer. Witness the complete truth of the last and most controversial jury trial in India-the case that divided India. Binge on!",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2464",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2464/list/270x152/1170x658withlogo_123262165.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Introducing%20Gmail%20Blue.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+          "title": "Mission Over Mars",
+          "duration": "5000",
+          "description": "Based on true events, Mission Over Mars is a Kannada dubbed ZEE5 Original drama series starring Mona Singh, Sakshi Tanwar, Nidhi Singh, and Palomi Ghosh. The series depicts the inspiring story of four women who played a pivotal role in making India’s Mars Orbiter Mission a thundering success. Watch the personal and professional challenges these women had to battle to make India proud, on ZEE5.",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2354",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2354/list/270x152/nisha_kannada_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Zeitgeist%202010_%20Year%20in%20Review.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+          "title": "Nisha",
+          "duration": "7090",
+          "description": "Nisha is a 2019 ZEE5 Original web series starring Anish Padmanabhan, Vaibhavi Shandilya, and Kalloori Vinoth. The story revolves around Adhi, who kidnaps Nisha, Riya, and Kirthi, and holds them hostage in a hideout. While trying to escape their kidnapper, one of the girls succumbs to death. Will the other two manage to get out alive?",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2428",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2428/list/270x152/bhram_kannada_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Bhram",
+          "duration": "5000",
+          "description": "Bhram is a ZEE5 Original psychological thriller series starring Kalki Koechlin, Eijaz Khan, Sanjay Suri and Bhumika Chawla. The story revolves around a female novelist who suffers from post-traumatic stress disorder (PTSD) and goes through many eccentric emotions while pursuing a story.",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2424",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2424/list/270x152/hawala_kannada_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Hawala",
+          "duration": "5000",
+          "description": "Hawala is a 2019 Kannada dubbed suspense thriller ZEE5 Original series starring Gourish Yeleti, Anusha, Tarun Rohith and Jayasree Kshatriya. After winning a huge sum of money through cricket betting, Karan gives the Hawala note to Vani, for safekeeping. However, they soon realise that another couple, Guna and Nisha, have stolen the Hawala note and encashed the money. As the chase begins to locate Guna and Nisha, the couple Karan and Vani find themselves in unexpected situations, as they begin to unearth the unexposed world of Hawala. What did Karan and Vani find out that left them spellbound?",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-1325",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-1325/list/270x152/rangbaaz_phirse_kannada_11.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Rangbaaz",
+          "duration": "5050",
+          "description": "Rangbaaz Phirse is ZEE5 Original series starring Jimmy Sheirgill, Gul Panag, Sharad Kelkar, Spruha Joshi, Harsh Chhaya and Sushant Singh. It is the story of a young guy who falls through the cracks because of politics and is robbed of his youth which subsequently ruins his life. #NotBornACriminal",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-1418",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-1418/list/270x152/freedomweek_kan_1903355922.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Husi Nagu",
+          "duration": "6000",
+          "description": "Produced by renowned filmmaker Karthik Subbaraj and starring actress Amrutha Srinivasan, ZEE5 Kannada Original Husi Nagu is a thriller drama on a young urban couple whose arranged marriage goes horribly wrong when the wife accidentally kills her husband. This sets off a chain of events that reveal the true nature of every character involved in the marriage.",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-1734",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-1734/list/270x152/autoshankar_1170_922495596.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Auto Shankar",
+          "duration": "5000",
+          "description": "Auto Shankar is a ZEE5 Original starring Sarath Appani, Selvapandian, Rajesh Dev, Vasudha and others . The story is based on horrifying true incidents that happened between 1985 - 1995 in Chennai, still remembered as 'Once upon a time in Madras'. Witness the thrilling story of Auto Shankar who kept the city under his gripping fear for nearly 10 years!",
+          "rating": "5"
+        },
+        {
+          "id": "0-0-87629",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-0-87629/list/270x152/bhinna_1170x658_1699242708.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Bhinna",
+          "duration": "5701",
+          "description": "Bhinna is a 2019 ZEE5 Kannada Original movie starring Shashank Purushotham, Siddharth Maadhyamika, Paayal Radhakrishna, and Sowmya Jaganmurthy. The story revolves around Kaveri, an aspiring actress, who begins to lose sight of reality when the events of the script of her upcoming movie begin to unfold in her actual life. Is Kaveri in an illusion? Where does this all end?",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2138",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2138/list/270x152/14102019_finger_2125288767.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Fingertip",
+          "duration": "5000",
+          "description": "Fingertip is a 2019 ZEE5 Original thriller series starring Akshara Haasan, Ashwin Kakumanu, Gayathri, and Sunaina. This anthology series showcases the negative impacts of social media, and how negative emotions like greed, revenge, and jealousy can force you to succumb to social pressure. The lives of Priya, Rekha, Sandhya, Krishnamoorthy, and Sanjay turn upside down due to one social media post. Enjoy this drama that is an eerie reminder of the destructive power of apps, according to cinemaexpress.com, only on ZEE5.",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-1819",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-1819/list/270x152/1170x658_1725402580.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Thaila",
+          "duration": "6000",
+          "description": "Thaila is a ZEE5 Original series starring Prasanna, Indhuja, John Vijay and Kaali Venkat. The thriller drama revolves around the life of a small-time scientist who claims to have invented a herbal fuel that can create a revolution in the petroleum industry, posing a threat to the dominant oil rich countries. Is his invention genuine or is he a con-man?",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2288",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2288/list/270x152/god_kn_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "G.O.D",
+          "duration": "5000",
+          "description": "Gods Of Dharmapuri (G.O.D) is a 2019 ZEE5 Original action drama web series starring Raj Deepak Shetty, Sruthy Jayan, Satyadev Kancharla, and Karthik Ratnam. Set in the 1960s and 1970s, the story revolves around the mining mafia bubble that takes Pratap Reddy from rags to riches, as he seeks control over Dharmapuri through sheer violence and ruthlessness. The situation, however, changes when Pratap becomes the target of his friends and family.",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2359",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2359/list/270x152/skyfire_kannada_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Skyfire",
+          "duration": "6000",
+          "description": "Skyfire is a ZEE5 original starring Prateik Babbar, Sonal Chauhan, Jisshu Sengupta, Jatin Goswami and Shataf Figar. When a boy from the slum disappears, his search leads a historian and a journalist to strange and seemingly unrelated incidents, including warnings of natural calamities. Get ready for India’s first-of-its-kind sci-fi thriller series.",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-2104",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-2104/list/270x152/15102019_nerd_11_250960814.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "NERD - Neither Either Really Dead",
+          "duration": "6000",
+          "description": "Nerd is a ZEE5 Original web series which revolves around a lonely, dull, and orphaned techie who longs for companionship. What happens when six beautiful girls enter his life? Find out in this erotic thriller starring Hasvanth Vanga, Arjun Ambati, Naveen Abhi, Koyel Das, Nikita Bisht, Ranjana Singh, Komal, Nishat Raza and Namrata Shirodkar.",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-1329",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-1329/list/270x152/eep2_kannada_1170x658.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "Yellige Oodta Ideera? - Season 2",
+          "duration": "3000",
+          "description": "The mystery continues in Yellige Oodta Ideera - Season 2, a ZEE5 Kannada Original series starring Shashank, Rajesh Edara, Pavani Gangireddy, Chandra Vempaty and Chandramouli. Madhur continues the hunt for his wife’s murderers and his missing son. Will he be able find the answers and unlock the mystery?",
+          "rating": "5"
+        },
+        {
+          "id": "0-6-1246",
+          "imageurl": "https://akamaividz.zee5.com/resources/0-6-1246/list/270x152/americamappillaikannada117.jpg",
+          "adurl": "http://commondatastorage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search.mp4",
+          "videourl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "title": "America Mappillai",
+          "duration": "5000",
+          "description": "America Mappillai is a ZEE5 Original web series starring Raja Krishnamoorthy, Leela Samson, Arjun Chidambaram, Gokul Anand, Namita Krishnamoorthy and Rakesh Ram. A straight guy, who is a commitaphobe, seeks the help of his gay friend to avoid getting married while struggling to come to terms with his sexuality.",
+          "rating": "5"
+        }
+      ]
+    }
+  ]
+}
